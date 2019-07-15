@@ -1,0 +1,20 @@
+{
+  "name": "06-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "nodemon": "nodemon server.js"
+  },
+  "author": "Gianfranco D'Onofrio",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "hbs": "^4.0.4",
+    "jquery": "^3.4.1",
+    "nodemon": "^1.19.1",
+    "popper.js": "^1.14.7"
+  }
+}
